@@ -17,7 +17,7 @@ pacman -S git python3
 1. Register Telegram Bot using Bot Father
 2. Clone the repo
    ```sh
-   git clone https://gitlab.com/scripts62/python-telegram-bot.git
+   git clone git@github.com:neulad/telegram-bot.git
    ```
 3. Install pip packages
    ```sh
